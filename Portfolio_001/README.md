@@ -63,7 +63,7 @@ IGNORE 1 LINES
 ```
 LOAD DATA LOCAL INFILE '/home/scott/damage_situation.csv'
 REPLACE
-INTO TABLE  orcl.type
+INTO TABLE  orcl.situation
 fields TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
@@ -169,3 +169,5 @@ result3.plot(kind = 'bar')
 plt.xlabel('가족유형별\n')
 plt.xticks(rotation = - 45)
 ```
+
+## 5. 결과 설명
