@@ -70,7 +70,9 @@ LINES TERMINATED BY '\n'
 IGNORE 1 LINES
 (type1,type2,cnt);
 ```
-
+<br>
+<br>
+<br>
 ## 4. 시각화 (Python)
 ### 4.1 cases 데이터 시각화
 ```
