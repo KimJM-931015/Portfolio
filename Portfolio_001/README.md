@@ -17,3 +17,4 @@ https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117064_A006&vw_cd=MT_ZT
 ### 2.2 파일 수정
 
 #### 2.2.1 행, 열 변환
+[cases.csv](https://github.com/KimJM-931015/Portfolio/blob/main/Portfolio_001/cases.csv)
