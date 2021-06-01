@@ -183,5 +183,5 @@ plt.xticks(rotation = - 45)
 <br>
 
 ## 5. 결과 설명
-
+![image](https://github.com/KimJM-931015/Portfolio/issues/1#issue-908306268)
 
