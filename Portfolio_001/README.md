@@ -7,7 +7,7 @@
 <br>
 ## 2. 데이터
 ### 2.1 출처
-<br>
+
 #### 2.1.1 아동학대사례 유형 Ⅱ(중복학대 미분류) (kosis.kr)
 https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=TX_117_2009_HJ023&vw_cd=MT_ZTITLE&list_id=117_11764_00A&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE
 
