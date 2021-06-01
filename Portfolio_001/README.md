@@ -12,3 +12,8 @@
 https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=TX_117_2009_HJ023&vw_cd=MT_ZTITLE&list_id=117_11764_00A&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE
 
 #### 2.1.2 피해아동현황 (kosis.kr)
+https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117064_A006&vw_cd=MT_ZTITLE&list_id=117_11764_00B&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE
+
+### 2.2 파일 수정
+
+#### 2.2.1 행, 열 변환
