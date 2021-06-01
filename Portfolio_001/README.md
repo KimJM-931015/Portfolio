@@ -25,5 +25,17 @@ https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117064_A006&vw_cd=MT_ZT
 <br>
 <br>
 ## 3. 테이블 생성 및 로드(Maria DB)
-
 ### 3.1 테이블 생성
+
+#### 3.1.1 cases 테이블 생성
+```
+create table cases
+( year     int(10),
+  total     int(10),
+  physical_abuse     int(10),
+  emotional_abuse     int(10),
+  sexual_abuse     int(10),
+  neglect     int(10),
+  abandonment     int(10))
+ENGINE=InnoDB DEFAULT CHARSET=utf8;
+```
