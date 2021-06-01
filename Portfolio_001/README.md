@@ -189,6 +189,6 @@ plt.xticks(rotation = - 45)
 cases 데이터를 시각화한 위의 그래프를 통해 2001년도부터 2017년도까지의 아동학대 사례 건수를 확인할 수 있다.
 
 ###### _situation 데이터 시각화_
-![image](img src="https://user-images.githubusercontent.com/82884493/120337059-ef42a900-c32d-11eb-9eee-d542618318f1.png",width="350",height="300")
-![image](img src="https://user-images.githubusercontent.com/82884493/120337062-f10c6c80-c32d-11eb-9bdd-83e5c8f4d71e.png",width="350",height="300")
-![image](img src="https://user-images.githubusercontent.com/82884493/120337072-f36ec680-c32d-11eb-97ee-be2132935c66.png",width="350",height="300")
+![image]<img src="https://user-images.githubusercontent.com/82884493/120337059-ef42a900-c32d-11eb-9eee-d542618318f1.png",width="350",height="300">
+![image]<img src="https://user-images.githubusercontent.com/82884493/120337062-f10c6c80-c32d-11eb-9bdd-83e5c8f4d71e.png",width="350",height="300">
+![image]<img src="https://user-images.githubusercontent.com/82884493/120337072-f36ec680-c32d-11eb-97ee-be2132935c66.png",width="350",height="300">
