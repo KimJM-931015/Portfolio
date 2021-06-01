@@ -183,7 +183,8 @@ plt.xticks(rotation = - 45)
 <br>
 
 ## 5. 그래프 설명
-![image](https://user-images.githubusercontent.com/82884493/120333022-4181cb00-c32a-11eb-8d09-9e92e467c25e.png)
 ###### _cases 데이터 시각화_
+![image](https://user-images.githubusercontent.com/82884493/120333022-4181cb00-c32a-11eb-8d09-9e92e467c25e.png)
 
 cases 데이터를 시각화한 위의 그래프를 통해 2001년도부터 2017년도까지의 아동학대 사례 건수를 확인할 수 있다.
+
