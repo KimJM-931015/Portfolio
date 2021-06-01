@@ -186,8 +186,14 @@ plt.xticks(rotation = - 45)
 ###### _cases 데이터 시각화_
 ![image](https://user-images.githubusercontent.com/82884493/120333022-4181cb00-c32a-11eb-8d09-9e92e467c25e.png)
 
-cases 데이터를 시각화한 위의 그래프를 통해 2001년도부터 2017년도까지의 아동학대 사례 건수를 확인할 수 있다.
+2001년도부터 2017년도까지의 아동학대 사례 건수를 그래프로 시각화하면 위와 같은 그래프가 나온다.
+위의 그래프를 통해 매년 아동학대 사례는 증가하는 것을 확인할 수 있다.
+
+<br>
 
 ###### _situation 데이터 시각화_
 <img src="https://user-images.githubusercontent.com/82884493/120337059-ef42a900-c32d-11eb-9eee-d542618318f1.png" width="350" height="300"> <img src="https://user-images.githubusercontent.com/82884493/120337062-f10c6c80-c32d-11eb-9bdd-83e5c8f4d71e.png" width="350" height="300">
 <img src="https://user-images.githubusercontent.com/82884493/120337072-f36ec680-c32d-11eb-97ee-be2132935c66.png" width="350" height="300">
+
+2019년도 피해 아동 현황을 그래프로 시각화해보았을 때 피해 아동의 성별은 큰 영향을 주지 않는 것을 확인할 수 있다.
+피해 아동을 연령별로 시각화한 그래프를 통해서는 영유아(만 3세 이하)보다는 어린이(만 4세 이상 만 13세 이하)가 더 많은 비율을 차지하고 14세 이후부터는 다시 줄어드는 것을 확인할 수 있으며, 피해 아동의 대부분이 친부모로부터 학대를 받았다는 것을 확인할 수 있다.
