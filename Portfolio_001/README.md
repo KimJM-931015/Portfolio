@@ -16,8 +16,14 @@ https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117064_A006&vw_cd=MT_ZT
 
 ### 2.2 파일 수정
 
-#### 2.2.1 아동학대사례 유형 Ⅱ(중복학대 미분류) 파일 수정
+#### 2.2.1 아동학대사례 유형 Ⅱ(중복학대 미분류) 데이터 수정
 [cases.csv](https://github.com/KimJM-931015/Portfolio/blob/main/Portfolio_001/cases.csv)
 
-#### 2.2.2 피해아동현황 파일 수정
+#### 2.2.2 피해아동현황 데이터 수정
 [damage_situation.csv](https://github.com/KimJM-931015/Portfolio/blob/main/Portfolio_001/damage_situation.csv)
+<br>
+<br>
+<br>
+## 3. 테이블 생성 및 로드(Maria DB)
+
+### 3.1 테이블 생성
