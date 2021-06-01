@@ -182,6 +182,6 @@ plt.xticks(rotation = - 45)
 <br>
 <br>
 
-## 5. 결과 설명
+## 5. 그래프 설명
 ![image](https://user-images.githubusercontent.com/82884493/120333022-4181cb00-c32a-11eb-8d09-9e92e467c25e.png)
-
+###### cases 데이터 시각화
