@@ -2,9 +2,11 @@
 
 ## 1. 주제
 연별 아동학대 사례 건수와 피해 아동 현황
+
 <br>
 <br>
 <br>
+
 ## 2. 데이터
 ### 2.1 출처
 #### 2.1.1 아동학대사례 유형 Ⅱ(중복학대 미분류) (kosis.kr)
@@ -19,9 +21,11 @@ https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117064_A006&vw_cd=MT_ZT
 
 #### 2.2.2 피해아동현황 데이터 수정
 [damage_situation.csv](https://github.com/KimJM-931015/Portfolio/blob/main/Portfolio_001/damage_situation.csv)
+
 <br>
 <br>
 <br>
+
 ## 3. 테이블 생성 및 로드 (Maria DB)
 ### 3.1 테이블 생성
 #### 3.1.1 cases 테이블 생성
@@ -70,9 +74,11 @@ LINES TERMINATED BY '\n'
 IGNORE 1 LINES
 (type1,type2,cnt);
 ```
+
 <br>
 <br>
 <br>
+
 ## 4. 시각화 (Python)
 ### 4.1 cases 데이터 시각화
 ```
@@ -172,5 +178,9 @@ plt.xlabel('가족유형별\n')
 plt.xticks(rotation = - 45)
 ```
 
-## 5. 결과 설명
+<br>
+<br>
+<br>
+
+## 5. 
 
