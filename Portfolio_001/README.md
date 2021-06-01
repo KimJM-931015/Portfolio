@@ -5,7 +5,6 @@
 
 <br>
 <br>
-<br>
 
 ## 2. 데이터
 ### 2.1 출처
@@ -15,6 +14,8 @@ https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=TX_117_2009_HJ023&vw_cd=MT
 #### 2.1.2 피해아동현황 (kosis.kr)
 https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117064_A006&vw_cd=MT_ZTITLE&list_id=117_11764_00B&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE
 
+<br>
+
 ### 2.2 파일 수정
 #### 2.2.1 아동학대사례 유형 Ⅱ(중복학대 미분류) 데이터 수정
 [cases.csv](https://github.com/KimJM-931015/Portfolio/blob/main/Portfolio_001/cases.csv)
@@ -22,7 +23,6 @@ https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_117064_A006&vw_cd=MT_ZT
 #### 2.2.2 피해아동현황 데이터 수정
 [damage_situation.csv](https://github.com/KimJM-931015/Portfolio/blob/main/Portfolio_001/damage_situation.csv)
 
-<br>
 <br>
 <br>
 
@@ -50,6 +50,8 @@ create table situation
 ENGINE=InnoDB DEFAULT CHARSET=utf8;
 ```
 
+<br>
+
 ### 3.2 데이터 로드
 #### 3.2.1 cases 데이터 로드
 ```
@@ -75,7 +77,6 @@ IGNORE 1 LINES
 (type1,type2,cnt);
 ```
 
-<br>
 <br>
 <br>
 
@@ -178,7 +179,6 @@ plt.xlabel('가족유형별\n')
 plt.xticks(rotation = - 45)
 ```
 
-<br>
 <br>
 <br>
 
