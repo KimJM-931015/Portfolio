@@ -35,4 +35,4 @@ https://www.kaggle.com/c/titanic
 <br>
 
 ## 4. 결과
-
+![image](https://user-images.githubusercontent.com/82884493/120595337-28d5fa00-c47d-11eb-9be8-8769e21c4d90.png)
