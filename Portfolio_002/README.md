@@ -23,3 +23,16 @@ https://www.kaggle.com/c/titanic
 |fare|Passenger fare||
 |cabin|Cabin number||
 |embarked|Port of Embarkation|C = Cherbourg,<br>Q = Queenstown,<br>S = Southampton|
+
+<br>
+<br>
+
+## 3. Directory index
+- Kaggle_Titanic.ipynb : Main script
+- function_v1.py : Functions for pre-processing used 'Kaggle_Titanic.ipynb' script
+
+<br>
+<br>
+
+## 4. 결과
+
