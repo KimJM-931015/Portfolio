@@ -1,0 +1,13 @@
+name: shoes_shiny
+title: shoes_shiny
+username:
+account: web-pg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4222145
+bundleId: 4686058
+url: https://web-pg.shinyapps.io/shoes_shiny/
+when: 1623047470.82479
+lastSyncTime: 1623047470.82479
+asMultiple: FALSE
+asStatic: FALSE
