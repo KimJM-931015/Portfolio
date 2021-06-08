@@ -29,7 +29,7 @@ https://www.kaggle.com/c/titanic
 
 ## 3. Directory index
 - Kaggle_Titanic.ipynb : 메인 스크립트
-- function_v1.py : 'Kaggle_Titanic.ipynb'에 사용된 전처리
+- function_v1.py : 'Kaggle_Titanic.ipynb'에 사용된 function
 
 <br>
 <br>
