@@ -3,6 +3,13 @@
 ## 1. 주제
 Shoes image classification using Shiny app
 
+분류 가능한 신발 모델
+1. Adidas_Yeezy_boost350_Zebra
+2. Converse_Chuck70'
+3. NewBalance993
+4. Nike_AirForce1
+5. Vans_OldSkool
+
 <br>
 <br>
 
