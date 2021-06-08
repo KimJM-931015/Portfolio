@@ -3,6 +3,8 @@
 ## 1. 주제
 Shoes image classification using Shiny app
 
+<br>
+
 Classifiable shoe models
 1. Adidas_Yeezy_boost350_Zebra
 2. Converse_Chuck70'
