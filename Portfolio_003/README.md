@@ -17,4 +17,7 @@ Classifiable shoe models
 
 ## 2. Web page URL & image
 https://web-pg.shinyapps.io/shoes_shiny/
+
+<br>
+
 ![image](https://user-images.githubusercontent.com/82884493/121133733-aaf36380-c86d-11eb-9b6c-ac8d84e8c894.png)
