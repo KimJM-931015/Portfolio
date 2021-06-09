@@ -1,11 +1,11 @@
 # **R Shiny App Portfolio**
 
 ## 1. 주제
-Shoes image classification using Shiny app
+Shiny app을 이용한 신발 이미지 분류
 
 <br>
 
-Classifiable shoe models
+분류 가능한 신발 모델
 1. Adidas_Yeezy_boost350_Zebra
 2. Converse_Chuck70'
 3. NewBalance993
@@ -15,7 +15,7 @@ Classifiable shoe models
 <br>
 <br>
 
-## 2. Web page URL & image
+## 2. Web page URL
 https://web-pg.shinyapps.io/shoes_shiny/
 
 <br>
@@ -25,5 +25,5 @@ https://web-pg.shinyapps.io/shoes_shiny/
 <br>
 <br>
 
-## 3. Presentation
+## 3. 발표영상
 https://m.youtube.com/watch?v=VC8qm68nA4U&feature=youtu.be
