@@ -1,11 +1,12 @@
 # **Deep Learning Portfolio**
 
 ## 1. 주제
-Real time object detection (custom data)
+실시간 객체 감지 (custom data)
 
 <br>
 
-Classifiable shoe models
+감지 가능한 신발 모델
+
 1. Converse_Chuck70
 2. Jordan1_DarkMocha
 3. NewBalance993
