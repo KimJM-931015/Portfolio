@@ -5,7 +5,7 @@
 
 <br>
 
-감지 가능한 신발 모델
+Classifiable shoe models
 1. Converse_Chuck70
 2. Jordan1_DarkMocha
 3. NewBalance993
