@@ -5,7 +5,7 @@ Shiny app을 이용한 신발 이미지 분류
 
 <br>
 
-분류 가능한 신발 모델
+Classifiable shoe models
 1. Adidas_Yeezy_boost350_Zebra
 2. Converse_Chuck70'
 3. NewBalance993
