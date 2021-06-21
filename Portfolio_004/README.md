@@ -21,4 +21,4 @@ Classifiable shoe models
 <br>
 <br>
 
-## 3. 
+## 3. 결과
