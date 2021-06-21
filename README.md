@@ -1,7 +1,7 @@
 # **Portfolio**
 
 ## 1. Note
-Deep_Learning_Study<br>
+Deep_Learning_Study
 itwill_Note
 
 ## 2. Portfolio_001
