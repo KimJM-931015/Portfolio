@@ -22,4 +22,4 @@ Classifiable shoe models
 <br>
 
 ## 3. 실시간 객체 감지
-!image(https://user-images.githubusercontent.com/82884493/122731528-5cef4e80-d2b6-11eb-9520-1f5c806ecedd.gif)
+<img src="https://user-images.githubusercontent.com/82884493/122731528-5cef4e80-d2b6-11eb-9520-1f5c806ecedd.gif">
